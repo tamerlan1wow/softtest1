@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.example.module2.exercises.exercise2.exercise3.OrderTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.038 s -- in org.example.module2.exercises.exercise2.exercise3.OrderTest
